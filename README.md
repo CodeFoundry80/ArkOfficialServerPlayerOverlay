@@ -10,6 +10,8 @@ Discord: **@.dodgeman**
 
 ## About
 
+YOU WILL NEED TO RUN THIS PROGRAM AS ADMIN! This is so that ETW can determine what server you are currently on. If you do not run as admin you will not get updated player numbers, or the server information you are on.
+
 ARK Player Overlay was created to provide useful server information while playing **ARK: Survival Ascended** without requiring you to manually select or configure the server you are playing on.
 
 Once ARK is running and you connect to a supported Official server, the overlay automatically determines which server you joined and displays its current information.
