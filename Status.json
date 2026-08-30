@@ -1,6 +1,6 @@
 {
   "project": "ARK Player Overlay",
   "status": "development",
-  "active": false,
+  "active": true,
   "version": "1.0.0"
 }
